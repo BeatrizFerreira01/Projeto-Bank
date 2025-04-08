@@ -21,7 +21,7 @@ public class ContaController {
 
     @GetMapping("/")
     public String infoProjeto() {
-        return "Projeto Bank - Criado por Beatriz e Bárbara";
+        return "Projeto Bank - Criado por Beatriz Ferreira Cruz";
     }
 
     @PostMapping
