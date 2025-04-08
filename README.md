@@ -152,7 +152,7 @@ Você pode usar o **Postman** (extensão do VS Code).
 
 ## 📝 Observações
 
-Este projeto foi desenvolvido como parte do curso de **Java Advanced**, focando nos conceitos de:
+Este projeto foi desenvolvido como parte da disciplina de **Java Advanced** no curso de graduação, focando nos conceitos de:
 - Programação orientada a objetos (POO)
 - Criação de APIs REST com Spring Boot
 - Validação de dados usando Bean Validation
