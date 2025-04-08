@@ -2,7 +2,7 @@
 # 📄 Projeto Bank
 
 **Sistema de Gerenciamento de Contas Bancárias**  
-Projeto desenvolvido para a disciplina de **Java Advanced - 3° Semestre**.
+Projeto desenvolvido para a disciplina de **Java Advanced**.
 
 ---
 
