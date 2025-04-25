@@ -145,7 +145,7 @@ Você pode usar o **Postman** (extensão do VS Code).
 
 ---
 
-## 👩‍💻 Autora
+## 👩‍💻 Desenvolvedora
 - **Beatriz Ferreira Cruz**
 
 ---
